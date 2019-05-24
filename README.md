@@ -1,8 +1,11 @@
 # jupyter
 Notebooks, snippets and utils to work with Python and Jupyter: Pandas, Numpy, Luigi, Bigquery, SQL 📓
 
-### bigquery-mamangement-snippets.ipynb
+### bigquery-manangement-snippets.ipynb
 Snippets for fast upload od CSVs to Bigquery via Cloud Storage. List tables. Delete table.
+
+### bigquery-openexchangerates.ipynb
+Uploads the latest exchange rates from the openexchangerates.org API
 
 ### bigquery-stitched-id.ipynb
 The algorithm figures out clusters of unlogged visitors and logged user who have used a common machine or device. User ID x Visitor ID stitching algorithm in SQL for disjointed traffic data containing cookie IDs and backend user IDs. The scrit also contains a useful function to calculate elapsed time and estimated remaining time of long running for loops.
